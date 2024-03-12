@@ -7,7 +7,6 @@ Uma breve descrição do que este projeto faz e para quem é destinado.
 
 - [Teste para Desenvolvedor Sênior Back-end](#teste-para-desenvolvedor-sênior-back-end)
   - [Índice](#índice)
-  - [Índice](#índice-1)
   - [Instalação](#instalação)
 
 ## Índice
